@@ -1,0 +1,11 @@
+Package: grimmr
+Type: Package
+Title: Data package of Fairy Tales by The Brothers Grimm
+Version: 0.1.0
+Authors@R: person("Erik", "Howard", role= c("cre,aut"), email="erikhoward@protonmail.com"))
+Maintainer: Erik Howard <erikhoward@protonmail.com>
+Description: Data for the complete set of Fairy Tales by the Brothers Grimm.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/erikhoward/grimmr

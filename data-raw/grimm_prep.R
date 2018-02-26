@@ -1,0 +1,40 @@
+## This script is used to download files from Project Gutenberg
+## and add them to the grimmr package
+
+library(gutenbergr)
+grimm_raw <- gutenberg_download(2591)$text
+the_golden_bird <- grimm_raw[96:297]
+hans_in_luck <- grimm_raw[]
+jorinda_and_jorindel <- grimm_raw[]
+the_travelling_musicians <- grimm_raw[]
+old_sultan <- grimm_raw[]
+the_straw_coal_and_bean <- grimm_raw[]
+briar_rose <- grimm_raw[]
+the_dog_and_the_sparrow <- grimm_raw[]
+the_twelve_dancing_princesses <- grimm_raw[]
+the_fisherman_and_his_wife <- grimm_raw[]
+the_willow_wren_and_the_beark <- grimm_raw[]
+the_frog_prince <- grimm_raw[]
+cat_and_mouse_in_partnership <- grimm_raw[]
+the_goose_girl <- grimm_raw[]
+the_adventures_of_chanticleer_and_partlet <- grimm_raw[]
+rapunzel <- grimm_raw[]
+fundevogel <- grimm_raw[]
+the_valiant_little_tailor <- grimm_raw[]
+hansel_and_gretel <- grimm_raw[]
+the_mouse_bird_and_the_sausage <- grimm_raw[]
+mother_holle <- grimm_raw[]
+little_red_cap <- grimm_raw[]
+the_robber_bridegroom <- grimm_raw[]
+tom_thumb <- grimm_raw[]
+rumpelstiltskin <- grimm_raw[]
+clever_gretel <- grimm_raw[]
+the_old_man_and_his_grandson <- grimm_raw[]
+the_little_peasant <- grimm_raw[]
+frederick_and_catherine <- grimm_raw[]
+sweetheart_roland <- grimm_raw[]
+snowdrop <- grimm_raw[]
+the_pink <- grimm_raw[]
+clever_elsie <- grimm_raw[]
+
+
